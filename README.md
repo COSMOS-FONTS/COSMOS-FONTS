@@ -1,2 +1,3 @@
 # COSMOS-FONTS
-4247 fonts powered by Fontastic
+
+It is recomended for you to use the CDN at http://cosmos-fonts.github.io
